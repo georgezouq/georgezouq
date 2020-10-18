@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on Low-code platform to build system without code
 - 🤔 I’m looking for help with opensource project JS and quant
 - 💬 Ask me about JavaScript Python and Quant Trading
-- 📫 How to reach me: [@GeorgeZou](https://twitter.com/GeorgeZouSQ)
